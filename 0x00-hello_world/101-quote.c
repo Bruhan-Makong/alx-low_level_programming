@@ -14,4 +14,3 @@ int main(void)
 	      s);
 	return (1);
 }
-
