@@ -1,2 +1,3 @@
 #!/bin/bash
-export gcc -c $CFILE=2-main.c ; ./2-assembler
+export gcc -c $CFILE
+
